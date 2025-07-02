@@ -1,6 +1,5 @@
-- Nombre y descripción del proyecto
-- Cómo instalarlo y usarlo
-- Tecnologías utilizadas
+- Nombre
+- Descripción del proyecto
 - Créditos o autores
 - Licencia
 - Enlaces útiles o documentación adicional
